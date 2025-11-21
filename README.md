@@ -84,6 +84,32 @@ This project is an end-to-end data analysis portfolio piece focused on a pizza s
 </table>
 
 
+## Key Insights & Recommendations
+
+Based on the analysis of the pizza sales data, several key business drivers and performance indicators were identified:
+
+### Business Performance (KPIs)
+- **Total Revenue:** Approximately $817,860 generated from 21,350 total orders.  
+- **Average Order Value (AOV):** ~$38.31, indicating customers typically purchase around 2.32 pizzas per order.
+
+### Product & Sales Performance
+- **Top Performers:** The top-selling pizzas by revenue are dominated by chicken options, led by *The Thai Chicken Pizza* and *The Barbecue Chicken Pizza*.  
+- **Worst Performers:** The least popular item by revenue is *The Brie Carre Pizza*.  
+- **Category Dominance:** The Classic pizza category contributes most to total sales and pizzas sold, followed by Supreme and Veggie.  
+- **Size Preference:** Large (L) size is overwhelmingly preferred, accounting for 46.37% of sales.
+
+### Order Trends (Time Series)
+- **Peak Days:** Friday and Saturday see the highest order volumes, followed by Thursday, indicating strong weekend demand.  
+- **Peak Months:** July and May have the highest total orders, suggesting seasonal trends or successful summer campaigns.
+
+### Data-Driven Recommendations
+1. **Optimize Marketing & Staffing:** Increase staffing and targeted marketing (e.g., weekend deals) on Fridays and Saturdays to maximize service efficiency.  
+2. **Inventory Focus:** Prioritize inventory and preparation for Large-size pizzas to prevent stockouts.  
+3. **Menu Review:** Investigate low-sales items like *The Brie Carre Pizza*. Consider targeted promotions or menu simplification.  
+4. **Promote Chicken Pizzas:** Prioritize chicken-based pizzas in visual merchandising and promotional bundles as they are top revenue generators.
+
+
+
 
 
 
