@@ -4,5 +4,10 @@ A comprehensive Pizza Sales Report project analyzing key performance metrics usi
 ## Project Overview
 This project is an end-to-end data analysis portfolio piece focused on a pizza sales dataset. The primary goal was to leverage SQL for data extraction and calculation of key business metrics (KPIs) and Power BI/Excel for creating interactive dashboards to visualize key sales trends and performance indicators.
 
+##Problem Statement
+The business objective was to visualize various aspects of the pizza sales data to gain insights and understand key trends. Specifically, we needed to analyze business performance through key indicators and visualize order patterns, customer preferences, and sales distribution.
+
+
+
 
 
