@@ -15,6 +15,18 @@ This project is an end-to-end data analysis portfolio piece focused on a pizza s
 </ul>
 
 
+<h2 style="font-size: 1.2em;">Key Performance Indicators (KPIs) Required</h2>
+<p>We calculated the following essential business metrics:</p>
+<ol>
+  <li><strong>Total Revenue:</strong> The sum of the total price of all pizza orders.</li>
+  <li><strong>Average Order Value:</strong> The average amount spent per order (Total Revenue / Total Orders).</li>
+  <li><strong>Total Pizzas Sold:</strong> The sum of the quantities of all pizzas sold.</li>
+  <li><strong>Total Orders:</strong> The total number of orders placed.</li>
+  <li><strong>Average Pizzas Per Order:</strong> The average number of pizzas sold per order (Total Pizzas Sold / Total Orders).</li>
+</ol>
+
+
+
 
 
 
