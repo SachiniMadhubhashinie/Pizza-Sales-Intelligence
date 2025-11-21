@@ -8,6 +8,11 @@ This project is an end-to-end data analysis portfolio piece focused on a pizza s
 <p>The business objective was to visualize various aspects of the pizza sales data to gain insights and understand key trends. Specifically, we needed to analyze business performance through key indicators and visualize order patterns, customer preferences, and sales distribution.</p>
 
 
+<h2 style="font-size: 1.2em;">Technology Stack</h2>
+<ul type="">
+<ui>Database & ETL: SQL (Used for querying, calculating KPIs, and aggregating data for visualizations).</ui>
+<ui>Visualization: Power BI / Excel (Used for data modeling, DAX/Formulas, and dashboard design).</ui>
+
 
 
 
