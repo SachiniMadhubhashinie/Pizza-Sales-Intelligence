@@ -26,6 +26,65 @@ This project is an end-to-end data analysis portfolio piece focused on a pizza s
 </ol>
 
 
+<h2 style="font-size: 1.2em;">Chart Requirements & Analysis</h2>
+<p>The dashboard was structured to meet the following visualization requirements:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Requirement</th>
+      <th>Chart Type Used</th>
+      <th>Insight Gained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Daily Trend for Total Orders</td>
+      <td>Bar Chart</td>
+      <td>Helped identify patterns or fluctuations in order volumes on a daily basis.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Monthly Trend for Total Orders</td>
+      <td>Line Chart</td>
+      <td>Illustrated the trend of total orders throughout the year to identify peak periods.</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Percentage of Sales by Pizza Category</td>
+      <td>Pie Chart</td>
+      <td>Showed the distribution of sales across different categories and their popularity.</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Percentage of Sales by Pizza Size</td>
+      <td>Pie Chart</td>
+      <td>Represented the percentage of sales attributed to different pizza sizes to understand customer preferences.</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Total Pizzas Sold by Pizza Category</td>
+      <td>Funnel Chart</td>
+      <td>Presented the total number of pizzas sold for each category to compare sales performance.</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Top 5 Best Sellers</td>
+      <td>Bar Chart</td>
+      <td>Highlighted the most popular pizzas based on Revenue, Total Quantity, and Total Orders.</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Bottom 5 Best Sellers</td>
+      <td>Bar Chart</td>
+      <td>Showcased the least popular/underperforming pizzas based on Revenue, Total Quantity, and Total Orders.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 
 
