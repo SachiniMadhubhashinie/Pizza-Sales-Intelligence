@@ -9,9 +9,11 @@ This project is an end-to-end data analysis portfolio piece focused on a pizza s
 
 
 <h2 style="font-size: 1.2em;">Technology Stack</h2>
-<ul type="">
-<ui>Database & ETL: SQL (Used for querying, calculating KPIs, and aggregating data for visualizations).</ui>
-<ui>Visualization: Power BI / Excel (Used for data modeling, DAX/Formulas, and dashboard design).</ui>
+<ul>
+  <li><strong>Database & ETL:</strong> SQL (used for querying, calculating KPIs, and aggregating data for visualizations).</li>
+  <li><strong>Visualization:</strong> Power BI / Excel (used for data modeling, DAX/formulas, and dashboard design).</li>
+</ul>
+
 
 
 
